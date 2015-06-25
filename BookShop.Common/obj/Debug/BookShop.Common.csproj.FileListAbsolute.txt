@@ -1,0 +1,8 @@
+F:\vs2010的训练代码\BookShop\BookShop.Common\bin\Debug\BookShop.Common.dll
+F:\vs2010的训练代码\BookShop\BookShop.Common\bin\Debug\BookShop.Common.pdb
+F:\vs2010的训练代码\BookShop\BookShop.Common\obj\Debug\BookShop.Common.dll
+F:\vs2010的训练代码\BookShop\BookShop.Common\obj\Debug\BookShop.Common.pdb
+C:\Users\杨忠\Desktop\BookShop\BookShop.Common\bin\Debug\BookShop.Common.dll
+C:\Users\杨忠\Desktop\BookShop\BookShop.Common\bin\Debug\BookShop.Common.pdb
+C:\Users\杨忠\Desktop\BookShop\BookShop.Common\obj\Debug\BookShop.Common.dll
+C:\Users\杨忠\Desktop\BookShop\BookShop.Common\obj\Debug\BookShop.Common.pdb
